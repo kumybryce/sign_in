@@ -153,7 +153,6 @@ class mymessage:
 
 
 if __name__ == '__main__':
-    global Flag
     t = mymessage()
     sign_in()
     if Flag == False:
